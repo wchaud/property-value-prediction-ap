@@ -28,7 +28,7 @@ property-value-prediction-api
 
 1. **Clone the repository:**
    ```
-   git clone <repository-url>
+   git clone property-value-prediction-api
    cd property-value-prediction-api
    ```
 
